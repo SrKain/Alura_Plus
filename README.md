@@ -1,5 +1,5 @@
 # Alura-Plus
-Landing page for alura plus
+Uma Landing page inspirada na pagina inicial da Netflix, onde o foco do projeto é mostrar minha capacidade de lidar com HTML e CSS;
 
 
 Usei uma estilização em CSS para tirar a barra de scroll do eixo X
