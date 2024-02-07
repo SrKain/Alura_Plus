@@ -1,4 +1,4 @@
-# Alura-Plus
+# Alura Plus
 Uma Landing page inspirada na pagina inicial da Netflix, onde o foco do projeto é mostrar minha capacidade de lidar com HTML e CSS;
 
 
